@@ -1,0 +1,2 @@
+appletviewer Page1.html
+pause
